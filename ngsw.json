@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1735310363891,
+  "index": "https://notnicolos.github.io/frontendopgaveview/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://notnicolos.github.io/frontendopgaveview/favicon.ico",
+        "https://notnicolos.github.io/frontendopgaveview/index.html",
+        "https://notnicolos.github.io/frontendopgaveview/main-SRMTOSVW.js",
+        "https://notnicolos.github.io/frontendopgaveview/manifest.webmanifest",
+        "https://notnicolos.github.io/frontendopgaveview/polyfills-FFHMD2TL.js",
+        "https://notnicolos.github.io/frontendopgaveview/scripts-EEEIPNC3.js",
+        "https://notnicolos.github.io/frontendopgaveview/styles-DZ6UBGXD.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://notnicolos.github.io/frontendopgaveview/icons/icon-128x128.png",
+        "https://notnicolos.github.io/frontendopgaveview/icons/icon-144x144.png",
+        "https://notnicolos.github.io/frontendopgaveview/icons/icon-152x152.png",
+        "https://notnicolos.github.io/frontendopgaveview/icons/icon-192x192.png",
+        "https://notnicolos.github.io/frontendopgaveview/icons/icon-384x384.png",
+        "https://notnicolos.github.io/frontendopgaveview/icons/icon-512x512.png",
+        "https://notnicolos.github.io/frontendopgaveview/icons/icon-72x72.png",
+        "https://notnicolos.github.io/frontendopgaveview/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://notnicolos.github.io/frontendopgaveview/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "https://notnicolos.github.io/frontendopgaveview/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "https://notnicolos.github.io/frontendopgaveview/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "https://notnicolos.github.io/frontendopgaveview/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "https://notnicolos.github.io/frontendopgaveview/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "https://notnicolos.github.io/frontendopgaveview/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "https://notnicolos.github.io/frontendopgaveview/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "https://notnicolos.github.io/frontendopgaveview/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "https://notnicolos.github.io/frontendopgaveview/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "https://notnicolos.github.io/frontendopgaveview/index.html": "51928718acbce059e94e1464bd256bcd3f3d338f",
+    "https://notnicolos.github.io/frontendopgaveview/main-SRMTOSVW.js": "95731709a390c685c554bc782805d1476d60aebb",
+    "https://notnicolos.github.io/frontendopgaveview/manifest.webmanifest": "45f8d24c34b754d859955e82b858c7f0a0730d30",
+    "https://notnicolos.github.io/frontendopgaveview/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "https://notnicolos.github.io/frontendopgaveview/scripts-EEEIPNC3.js": "2318ded8c885787a1645385a82c1ca883c359034",
+    "https://notnicolos.github.io/frontendopgaveview/styles-DZ6UBGXD.css": "3e59d134825758cdbf92d6e61c042223b645d67a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
